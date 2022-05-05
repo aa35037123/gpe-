@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "queue": "cpp",
+        "cstring": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp"
+    }
+}
